@@ -1,3 +1,4 @@
+#！C:\Users\Administrator\AppData\Local\Programs\Python\Python37 Python
 for n in range(2, 10):
     for x in range(2, n):
         if n % x == 0:
